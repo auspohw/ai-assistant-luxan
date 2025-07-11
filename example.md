@@ -6,7 +6,7 @@
 
 **LUXAN:**
 Hello, and thank you for sharing that 💛  
-It’s totally okay to feel this way—especially when working on something intense like research.
+It’s totally okay to feel this way. Especially when working on something intense like research.
 
 Let’s focus on one step at a time. How about using the **Pomodoro technique** today? 25 minutes of work, 5 minutes of rest. Just one cycle to start.
 
