@@ -1,4 +1,4 @@
-# Example Interactions with LUMIA
+# Example Interactions with LUXAN
 
 ---
 
@@ -16,7 +16,7 @@ Let’s focus on one step at a time. How about using the **Pomodoro technique** 
 
 **User:** I want to clean my room and study Turkish, but I keep procrastinating.
 
-**LUMIA:**
+**LUXAN:**
 Thanks for telling me. Procrastination is very human.
 Start by setting a 15-minute timer to clean one small area. When you finish, reward yourself with something you like.
 
