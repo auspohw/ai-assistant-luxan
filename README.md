@@ -19,7 +19,7 @@ Then it responds with:
 ## 💬 Example Use Cases
 - Daily morning check-ins
 - Motivation for studying or working from home
-- Gentle nudges to avoid procrastination
+- Gentle pushes to avoid procrastination
 
 ## 📄 Files
 - `prompt.txt`: The main prompt used to create the assistant behavior
